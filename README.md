@@ -26,7 +26,7 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
 
 <h3 align='center'>Frontend Styling</h3>
 
-<table align="center"> <tr> <td align="center" height="70" width="70"> <img src="icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/> <br/>Tailwind CSS </td> <td align="center" height="70" width="70"> <img src="icons/material-ui.svg" alt="Material-UI" width="40" height="40"/> <br/>Material-UI </td> <td align="center" height="70" width="70"> <img src="icons/styled-components.svg" alt="Styled Components" width="40" height="40"/> <br/>Styled Components </td> <td align="center" height="70" width="70"> <img src="icons/sass.svg" alt="SASS" width="40" height="40"/> <br/>SASS </td> </tr> </table>
+<table align="center"> <tr> <td align="center" height="70" width="70"> <img src="icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/> <br/>Tailwind CSS </td> <td align="center" height="70" width="70"> <img src="icons/material-ui.svg" alt="Material-UI" width="40" height="40"/> <br/>Material-UI </td> <td align="center" height="70" width="70"> <img src="icons/styled-components.png" alt="Styled Components" width="40" height="40"/> <br/>Styled Components </td> <td align="center" height="70" width="70"> <img src="icons/sass.svg" alt="SASS" width="40" height="40"/> <br/>SASS </td> </tr> </table>
 
 
 <h3 align='center'>Backend Development</h3>
