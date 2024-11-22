@@ -54,36 +54,25 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Involved Admin Panel</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='img/chronous-landing.png' alt='Chronous'/>
-        </a>
+        <a href='https://admin.getinvolved.io/sign-in'><img src='img/involved-admin-panel.png' alt='Involved Admin Panel'/></a>
         <br>
         <br>
         <p>
-          <a href='https://chronous.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href='https://admin.getinvolved.io/sign-in'><img src='icons/live.svg'/></a>
         </p>
-        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
+        <p><strong>React, TypeScript, Material-UI</strong></p>
       </div>
     </td>
     <td width='50%'>
       <h2 align='center'>Involved Participants</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net/default-chronous/'>
-          <img src='img/chronous.png' alt='Chronous'/>
-        </a>
+        <a href='https://app.getinvolved.io/'><img src='img/involved-participants.png' alt='Involved Participants'/></a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/midstem/chronous'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://chronous.midstem.net/default-chronous/'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href='https://app.getinvolved.io/'><img src='icons/live.svg'/></a>
         </p>
-        <p><strong>React, TypeScript</strong></p>
+        <p><strong>React, TypeScript, Tailwind CSS</strong></p>
       </div>
     </td>
   </tr>
@@ -91,20 +80,14 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>SignScan</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/streamers/'>
-          <img src='img/streamers.png' alt='Streamers'/>
-        </a>
+        <a href=''><img src='img/signscan.png' alt='SignScan'/></a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/streamers'>
-            <img src="icons/repo.svg"/>
-          </a>
-            <a href='https://alex-dishen.github.io/streamers/'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href=''><img src="icons/apple.svg"/></a>
+          <a href=''><img src='icons/google_play.svg'/></a>
         </p>
-        <p><strong>React, TypeScript, Express, PostgreSQL</strong></p>
+        <p><strong>ReactNative, TypeScript, YOLO</strong></p>
       </div>
     </td>
     <td width='50%'>
@@ -114,14 +97,10 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
         <br>
         <br>
         <p>
-          <a href='https://apps.apple.com/app/weaponry/id6446477481'>
-            <img src="icons/apple.svg"/>
-          </a>
-          <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry'>
-            <img src='icons/google_play.svg'/>
-          </a>
+          <a href='https://apps.apple.com/app/weaponry/id6446477481'><img src="icons/apple.svg"/></a>
+          <a href='https://play.google.com/store/apps/details?id=com.domdev.weaponry'><img src='icons/google_play.svg'/></a>
         </p>
-        <p><strong>ReactNative, TypeScript</strong></p>
+        <p><strong>ReactNative, TypeScript, TensorFlow</strong></p>
       </div>
     </td>
   </tr>
@@ -129,15 +108,11 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Chronous Landing</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='img/chronous-landing.png' alt='Chronous'/>
-        </a>
+        <a href='https://chronous.midstem.net'><img src='img/chronous-landing.png' alt='Chronous'/></a>
         <br>
         <br>
         <p>
-          <a href='https://chronous.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href='https://chronous.midstem.net'><img src='icons/live.svg'/></a>
         </p>
         <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
       </div>
@@ -145,18 +120,12 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Chronous</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net/default-chronous/'>
-          <img src='img/chronous.png' alt='Chronous'/>
-        </a>
+        <a href='https://chronous.midstem.net/default-chronous/'><img src='img/chronous.png' alt='Chronous'/></a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/midstem/chronous'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://chronous.midstem.net/default-chronous/'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href='https://github.com/midstem/chronous'><img src="icons/repo.svg"/></a>
+          <a href='https://chronous.midstem.net/default-chronous/'><img src='icons/live.svg'/></a>
         </p>
         <p><strong>React, TypeScript</strong></p>
       </div>
@@ -166,32 +135,22 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Swipi Landing</h2>
       <div align='center'>  
-        <a href='https://swipi.midstem.net'>
-          <img src='img/swipi-landing.png' alt='Swipi landing project'/>
-        </a>
+        <a href='https://swipi.midstem.net'><img src='img/swipi-landing.png' alt='Swipi landing project'/></a>
         <br>
         <br>
-        <a href='https://swipi.midstem.net'>
-          <img src='icons/live.svg'/>
-        </a>
+        <a href='https://swipi.midstem.net'><img src='icons/live.svg'/></a>
         <p><strong>React, TypeScript, Next.js, Chakra</strong></p>
       </div>
     </td>
    <td width='50%'>
       <h2 align='center'>Swipi</h2>
       <div align='center'>  
-        <a href='https://swipi.midstem.net'>
-          <img src='img/slider.png' alt='Swipi project'/>
-        </a>
+        <a href='https://swipi.midstem.net'><img src='img/slider.png' alt='Swipi project'/></a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/midstem/swipi'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://swipi.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
+          <a href='https://github.com/midstem/swipi'><img src="icons/repo.svg"/></a>
+          <a href='https://swipi.midstem.net'><img src='icons/live.svg'/></a>
         </p>
         <p><strong>React, TypeScript</strong></p>
       </div>
