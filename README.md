@@ -39,7 +39,7 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
 
 <h3 align='center'>Testing & Development Tools</h3>
 
-<table align="center"> <tr> <td align="center" height="70" width="70"> <img src="icons/cypress.svg" alt="Cypress" width="40" height="40"/> <br/>Cypress </td> <td align="center" height="70" width="70"> <img src="icons/storybook.svg" alt="Storybook" width="40" height="40"/> <br/>Storybook </td> <td align="center" height="70" width="70"> <img src="icons/vite.svg" alt="Vite" width="40" height="40"/> <br/>Vite </td> <td align="center" height="70" width="70"> <img src="icons/docker.svg" alt="Docker" width="40" height="40"/> <br/>Docker </td> </tr> </table>
+<table align="center"> <tr> <td align="center" height="70" width="70"> <img src="icons/cypress.svg" alt="Cypress" width="40" height="40"/> <br/>Cypress </td> <td align="center" height="70" width="70"> <img src="icons/storybook.svg" alt="Storybook" width="40" height="40"/> <br/>Storybook </td> <td align="center" height="70" width="70"> <img src="icons/vite.svg" alt="Vite" width="40" height="40"/> <br/>Vite </td> <td align="center" height="70" width="70"> <img src="icons/docker.svg" alt="Docker" width="40" height="40"/> <br/>Docker </td> <img src="icons/aws.svg" alt="Aws" width="40" height="40"/> <br/>AWS</td> </tr> </table>
 
 <h3 align='center'>Machine Learning</h3>
 
