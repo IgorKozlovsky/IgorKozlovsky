@@ -13,10 +13,10 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
 </p>
 
 <div align='center'>
-  <a href="https://www.linkedin.com/in/oleksandr-didyshen/"> 
+  <a href="https://www.linkedin.com/in/igorkozlovskyi/"> 
     <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
   </a>
-  <a href="mailto: didyshen.oleksandr@gmail.com"> 
+  <a href="mailto: i.kozlovsky2004@gmail.com"> 
     <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
   </a>
 </div>
