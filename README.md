@@ -1,3 +1,9 @@
+<style>
+  a {
+  text-decoration: none;
+}
+</style>
+
 <h2 align="center">Hello, I'm Igor 😎</h2>
 <br>
 <p align="center">
@@ -13,12 +19,8 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
 </p>
 
 <div align='center'>
-  <a href="https://www.linkedin.com/in/igorkozlovskyi/"> 
-    <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
-  </a>
-  <a href="mailto: i.kozlovsky2004@gmail.com"> 
-    <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
-  </a>
+  <a href="https://www.linkedin.com/in/igorkozlovskyi/"><img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' /></a>
+  <a href="mailto: i.kozlovsky2004@gmail.com"><img src="icons/gmail.svg" alt="Gmail" height="25" width='25' /></a>
 </div>
 <br>
 
