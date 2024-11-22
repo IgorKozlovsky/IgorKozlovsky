@@ -1,21 +1,29 @@
-<svg width="252" height="264" viewBox="0 0 252 264" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1008_94177)">
-<mask id="mask0_1008_94177" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-1" y="6" width="254" height="258">
-<path d="M252.391 6.06781H-0.4375V263.932H252.391V6.06781Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_1008_94177)">
-<path d="M58.75 6.06851C26.1136 6.06851 -0.4375 32.6318 -0.4375 65.2829C-0.4375 97.9314 26.1136 124.496 58.75 124.496C91.387 124.496 117.938 97.9314 117.938 65.2829C117.938 32.6318 91.387 6.06851 58.75 6.06851Z" fill="#0B23A9"/>
-<path d="M125.719 191.489C104.399 191.489 84.2542 186.088 66.5703 176.606V203.471C66.5703 236.071 92.5899 263.121 125.175 263.436C158.078 263.754 184.947 237.069 184.947 204.226V176.581C167.247 186.087 147.069 191.489 125.719 191.489Z" fill="#0B23A9"/>
-<path d="M133.466 65.2895C133.405 106.481 99.9796 139.934 58.6584 140.035C42.7185 140.076 27.7607 135.112 15.5547 126.445C37.1888 165.134 78.4701 191.514 125.673 191.423C194.243 191.477 250.823 135.626 251.966 67.1253L251.804 66.9787C251.871 65.2719 251.788 66.67 251.871 65.2719C251.904 32.598 225.312 5.93101 192.815 6.04477C160.008 6.17432 133.499 32.6152 133.466 65.2895Z" fill="url(#paint0_linear_1008_94177)"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" viewBox="0 0 40 41" version="1.1">
 <defs>
-<linearGradient id="paint0_linear_1008_94177" x1="71.1552" y1="189.328" x2="217.708" y2="27.0527" gradientUnits="userSpaceOnUse">
-<stop stop-color="#09DBF0"/>
-<stop offset="1" stop-color="#0B23A9"/>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="40" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAABmJLR0QA/wD/AP+gvaeTAAAAUUlEQVRYhe3OMRGAMAAAMUoV4N8kArgrDmDIAMNHQcY657H92FjXXF8nnuxfB94UVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUF1Ays6BVHoVZOWAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="71.155197" y1="189.328003" x2="217.707993" y2="27.0527" gradientTransform="matrix(0.15873,0,0,0.155303,0,0)">
+<stop offset="0" style="stop-color:rgb(3.529412%,85.882353%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(4.313725%,13.72549%,66.27451%);stop-opacity:1;"/>
 </linearGradient>
-<clipPath id="clip0_1008_94177">
-<rect width="252" height="264" fill="white"/>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="40" height="41"/>
 </clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(4.313726%,13.725491%,66.274512%);fill-opacity:1;" d="M 9.324219 0.941406 C 4.144531 0.941406 -0.0703125 5.066406 -0.0703125 10.136719 C -0.0703125 15.210938 4.144531 19.335938 9.324219 19.335938 C 14.507812 19.335938 18.71875 15.210938 18.71875 10.136719 C 18.71875 5.066406 14.507812 0.941406 9.324219 0.941406 Z M 9.324219 0.941406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(4.313726%,13.725491%,66.274512%);fill-opacity:1;" d="M 19.957031 29.738281 C 16.570312 29.738281 13.375 28.898438 10.566406 27.425781 L 10.566406 31.601562 C 10.566406 36.664062 14.695312 40.863281 19.867188 40.914062 C 25.089844 40.960938 29.355469 36.816406 29.355469 31.71875 L 29.355469 27.421875 C 26.546875 28.898438 23.34375 29.738281 19.957031 29.738281 Z M 19.957031 29.738281 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 21.183594 10.140625 C 21.175781 16.535156 15.871094 21.730469 9.3125 21.746094 C 6.78125 21.753906 4.40625 20.984375 2.46875 19.636719 C 5.902344 25.644531 12.457031 29.742188 19.949219 29.730469 C 30.832031 29.738281 39.8125 21.0625 39.996094 10.425781 L 39.96875 10.402344 C 39.980469 10.136719 39.964844 10.355469 39.980469 10.136719 C 39.984375 5.0625 35.765625 0.921875 30.605469 0.9375 C 25.398438 0.957031 21.191406 5.066406 21.183594 10.140625 Z M 21.183594 10.140625 "/>
+</g>
 </defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
 </svg>
