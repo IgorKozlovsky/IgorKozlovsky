@@ -1,9 +1,3 @@
-<style>
-  a {
-  text-decoration: none;
-}
-</style>
-
 <h2 align="center">Hello, I'm Igor 😎</h2>
 <br>
 <p align="center">
