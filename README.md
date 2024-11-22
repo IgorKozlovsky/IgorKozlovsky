@@ -54,7 +54,7 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Involved Admin Panel</h2>
       <div align='center'>  
-        <a href='https://admin.getinvolved.io/sign-in'><img src='img/involved-admin-panel.png' alt='Involved Admin Panel'/></a>
+        <a href='https://admin.getinvolved.io/sign-in'><img src='gif/involved-admin-panel.gif' alt='Involved Admin Panel'/></a>
         <br>
         <br>
         <p>
@@ -66,7 +66,7 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>Involved Participants</h2>
       <div align='center'>  
-        <a href='https://app.getinvolved.io/'><img src='img/involved-participants.png' alt='Involved Participants'/></a>
+        <a href='https://app.getinvolved.io/'><img src='gif/involved-participants.gif' alt='Involved Participants'/></a>
         <br>
         <br>
         <p>
