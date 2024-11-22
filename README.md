@@ -84,8 +84,8 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
         <br>
         <br>
         <p>
-          <a href=''><img src="icons/apple.svg"/></a>
-          <a href=''><img src='icons/google_play.svg'/></a>
+          <a href='https://apps.apple.com/us/app/signscan/id6461823283'><img src="icons/apple.svg"/></a>
+          <a href='https://play.google.com/store/apps/details?id=com.signscan'><img src='icons/google_play.svg'/></a>
         </p>
         <p><strong>ReactNative, TypeScript, YOLO</strong></p>
       </div>
