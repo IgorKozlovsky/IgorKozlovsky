@@ -80,7 +80,7 @@ Collaboration, mentorship, and innovation are what drive me to deliver impactful
     <td width='50%'>
       <h2 align='center'>SignScan</h2>
       <div align='center'>  
-        <a href=''><img src='img/signscan.png' alt='SignScan'/></a>
+        <a href='img/signscan.png'><img src='img/signscan.png' alt='SignScan'/></a>
         <br>
         <br>
         <p>
